@@ -1,6 +1,5 @@
-package genie_aswhini_sheet;
 
-public class RemoveDuplicatesFromSortedArray {
+public class RemoveDuplicates {
 
     public int removeDuplicates(int[] nums) {
         int k = 0, lastSeen = nums[0];

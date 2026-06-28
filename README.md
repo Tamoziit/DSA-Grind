@@ -9,3 +9,11 @@ Ab toh kuch bada phodna hainnnnnnnnnnnn
 - Remove Duplicates from Sorted Array
 - Best Time to Buy and Sell Stock
 - Plus One
+
+## Striver's A-Z Sheet
+**28/06/26**:
+- Check Sorted Array II
+- Remove Duplicates from Sorted Array
+- Left Rotate Array by One
+- Rotate Array by K places
+- Move Zeroes to End
