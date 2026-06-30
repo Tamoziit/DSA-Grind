@@ -10,6 +10,12 @@ Ab toh kuch bada phodna hainnnnnnnnnnnn
 - Best Time to Buy and Sell Stock
 - Plus One
 
+**01/07/26**:
+- Missing Number
+- Maximum Subarray (Kadane's Algo)
+- Move Zeroes
+- Contains Duplicate
+
 ## Striver's A-Z Sheet
 **28/06/26**:
 - Check Sorted Array II
