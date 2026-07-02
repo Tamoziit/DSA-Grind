@@ -25,6 +25,12 @@ Ab toh kuch bada phodna hainnnnnnnnnnnn
 - Maximum Product Subarray (Kadane's 2-DP)
 - Minimum Size Subarray Sum
 
+**03/07/26**:
+- Reverse String
+- Valid Anagram
+- Valid Palindrome
+- String to Integer (atoi)
+
 ## Striver's A-Z Sheet
 **28/06/26**:
 - Check Sorted Array II
