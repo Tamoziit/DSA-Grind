@@ -32,3 +32,13 @@ Ab toh kuch bada phodna hainnnnnnnnnnnn
 - Left Rotate Array by One
 - Rotate Array by K places
 - Move Zeroes to End
+
+**02/07/26**:
+- Linear Search
+- Union of 2 sorted arrays
+- Find missing numbers
+- Maximum Consecutive Ones
+- Unique Number in array
+- Longest Subarray with sum K (for positives)
+- Longest Subarray with sum K (general case: +ves, -ves & 0s)
+- Number of Subarrays with sum K
