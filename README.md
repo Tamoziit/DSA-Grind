@@ -31,6 +31,14 @@ Ab toh kuch bada phodna hainnnnnnnnnnnn
 - Valid Palindrome
 - String to Integer (atoi)
 
+**05/07/26**:
+- Implement strStr()
+- Count and Say
+- First Unique Character in a String
+- Valid Parentheses
+- Longest Substring Without Repeating Characters
+- Longest Common Prefix
+
 ## Striver's A-Z Sheet
 **28/06/26**:
 - Check Sorted Array II
