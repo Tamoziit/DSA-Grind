@@ -56,3 +56,11 @@ Ab toh kuch bada phodna hainnnnnnnnnnnn
 - Longest Subarray with sum K (for positives)
 - Longest Subarray with sum K (general case: +ves, -ves & 0s)
 - Number of Subarrays with sum K
+
+**05/07/26**:
+- Two Sum
+- 0, 1, 2 Sort
+- Majority Element I
+- Kadane's Algorithm (Max Subarray Sum)
+- Buy & Sell Stocks
+- Rearrange array elements by sign

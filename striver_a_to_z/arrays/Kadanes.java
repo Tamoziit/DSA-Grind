@@ -3,22 +3,23 @@
  * Time: O(N)
  * Space: O(1)
  */
-public class MaxSubarraySum {
+public class Kadanes {
 
     public int maxSubArray(int[] nums) {
-        int max = Integer.MIN_VALUE, sum = 0, startIdx = -1, endIdx = -1, start = -1;
+        int max = Integer.MIN_VALUE, startIdx = -1, endIdx = -1, start = -1;
+        int sum = 0;
 
         for (int i = 0; i < nums.length; i++) {
             if (sum == 0) {
-                start = i; // subarray starts when sum is reset
+                start = i;
             }
 
             sum += nums[i];
 
             if (sum > max) {
                 max = sum;
-                startIdx = start; // start of subarray
-                endIdx = i; // subarray ends where max is set
+                startIdx = start;
+                endIdx = i;
             }
 
             if (sum < 0) {
@@ -26,7 +27,7 @@ public class MaxSubarraySum {
             }
         }
 
-        System.out.println("Start idx = " + startIdx + ", End idx = " + endIdx);
+        System.out.println("Start: " + startIdx + ", End: " + endIdx);
         return max;
     }
 }
