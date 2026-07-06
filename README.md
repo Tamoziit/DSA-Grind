@@ -64,3 +64,8 @@ Ab toh kuch bada phodna hainnnnnnnnnnnn
 - Kadane's Algorithm (Max Subarray Sum)
 - Buy & Sell Stocks
 - Rearrange array elements by sign
+
+**06/07/26**:
+- Next Permutation
+- Leaders in Array
+- Longest Consecutive Sequence in Array
