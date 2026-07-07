@@ -69,3 +69,9 @@ Ab toh kuch bada phodna hainnnnnnnnnnnn
 - Next Permutation
 - Leaders in Array
 - Longest Consecutive Sequence in Array
+
+**07/07/26**:
+- Set Matrix Zeroes
+- Rotate matrix by 90 deg.
+- Spiral Matrix
+- Total Subarrays with Sum K

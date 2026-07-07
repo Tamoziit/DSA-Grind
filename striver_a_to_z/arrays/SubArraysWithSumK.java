@@ -9,19 +9,21 @@ import java.util.Map;
 public class SubArraysWithSumK {
 
     public int subarraySum(int[] nums, int k) {
-        Map<Long, Integer> prefixCount = new HashMap<>();
-        prefixCount.put(0L, 1);
-
-        long sum = 0;
+        Map<Long, Integer> preSumFreq = new HashMap<>();
+        long preSum = 0;
         int count = 0;
 
+        // Base case: prefix sum 0 has occurred once
+        preSumFreq.put(0l, 1);
+
         for (int i = 0; i < nums.length; i++) {
-            sum += nums[i];
-            long rem = sum - k;
+            preSum += nums[i];
+            long rem = preSum - k;
 
-            count += prefixCount.getOrDefault(rem, 0);
+            count += preSumFreq.getOrDefault(rem, 0); // if not present, add 0 by default
 
-            prefixCount.put(rem, prefixCount.getOrDefault(sum, 0) + 1);
+            // update x - k count for subarray k
+            preSumFreq.put(preSum, preSumFreq.getOrDefault(preSum, 0) + 1);
         }
 
         return count;
