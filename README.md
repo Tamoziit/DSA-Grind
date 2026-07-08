@@ -39,6 +39,12 @@ Ab toh kuch bada phodna hainnnnnnnnnnnn
 - Longest Substring Without Repeating Characters
 - Longest Common Prefix
 
+**08/07/26**:
+- Group Anagrams
+- Longest Palindromic Substring
+- ZigZag Conversion
+- Longest Valid Parentheses
+
 ## Striver's A-Z Sheet
 **28/06/26**:
 - Check Sorted Array II
