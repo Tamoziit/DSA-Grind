@@ -44,6 +44,7 @@ Ab toh kuch bada phodna hainnnnnnnnnnnn
 - Longest Palindromic Substring
 - ZigZag Conversion
 - Longest Valid Parentheses
+- Palindrome Partitioning
 
 ## Striver's A-Z Sheet
 **28/06/26**:
