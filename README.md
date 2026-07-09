@@ -82,3 +82,14 @@ Ab toh kuch bada phodna hainnnnnnnnnnnn
 - Rotate matrix by 90 deg.
 - Spiral Matrix
 - Total Subarrays with Sum K
+
+**09/07/26**:
+- Search x in sorted Array
+- Lower & Upper bound of target
+- Search insert position
+- Floor & Ceil in sorted array
+- First & Last occurence
+- Count occurences in a sorted array
+- Search in Rotated Array-I
+- Search in Rotated Array-II
+- Find minimum in Rotated Array
