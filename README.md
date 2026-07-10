@@ -93,3 +93,8 @@ Ab toh kuch bada phodna hainnnnnnnnnnnn
 - Search in Rotated Array-I
 - Search in Rotated Array-II
 - Find minimum in Rotated Array
+
+**10/07/26**:
+- Finding the no. of times an array is rotated
+- Find Single ele. in sorted array
+- Find Peak element
