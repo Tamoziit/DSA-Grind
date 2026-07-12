@@ -16,7 +16,7 @@ Ab toh kuch bada phodna hainnnnnnnnnnnn
 - Move Zeroes
 - Contains Duplicate
 
-**01/07/26-02/07/26**:
+**01/07/26 - 02/07/26**:
 - Intersection of Two Arrays II
 - Rotate Array
 - Third Maximum Number
@@ -98,3 +98,7 @@ Ab toh kuch bada phodna hainnnnnnnnnnnn
 - Finding the no. of times an array is rotated
 - Find Single ele. in sorted array
 - Find Peak element
+
+**12/07/26 - 13/07/26**:
+- Assign Cookies
+- Fractional Knapsack
