@@ -102,5 +102,10 @@ Ab toh kuch bada phodna hainnnnnnnnnnnn
 **12/07/26 - 13/07/26**:
 - Assign Cookies
 - Fractional Knapsack
+
+**13/07/26**:
 - Lemonade Change
 - Valid Parenthesis Checker
+- N meetings in one room
+- Jump Game - I
+- Jump Game - II
