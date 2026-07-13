@@ -102,3 +102,5 @@ Ab toh kuch bada phodna hainnnnnnnnnnnn
 **12/07/26 - 13/07/26**:
 - Assign Cookies
 - Fractional Knapsack
+- Lemonade Change
+- Valid Parenthesis Checker
