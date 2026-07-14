@@ -109,3 +109,12 @@ Ab toh kuch bada phodna hainnnnnnnnnnnn
 - N meetings in one room
 - Jump Game - I
 - Jump Game - II
+
+**14/07/26**:
+- Min. no. of platforms required for a railway
+- Job sequencing problem
+- Shortest Job First (SJF)
+- LRU Cache Replacement Policy
+- Insert Interval
+- Merge Intervals
+- Non-overlapping intervals
