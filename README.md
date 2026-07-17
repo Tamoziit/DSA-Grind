@@ -124,3 +124,8 @@ Ab toh kuch bada phodna hainnnnnnnnnnnn
 - Reverse words in a string
 - Largest odd number in a string
 - Longest Common Prefix
+
+**17/07/26**:
+- Isomorphic String
+- Rotate String
+- Valid Anagram
