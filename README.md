@@ -129,3 +129,12 @@ Ab toh kuch bada phodna hainnnnnnnnnnnn
 - Isomorphic String
 - Rotate String
 - Valid Anagram
+
+**20/07/26**:
+- Sort Characters by Frequency in a String
+- Max. Nesting Depth of Parentheses
+- Roman to Integer
+- String to Integer (ATOI)
+- Count no. of substrings with k distinct characters
+- Longest Palindromic Substring
+- Sum of Beauty of all Substrings
