@@ -151,3 +151,8 @@ Ab toh kuch bada phodna hainnnnnnnnnnnn
     - insert at head
     - delete at head
     - reverse DLL
+
+**22/07/26**:
+- Middle of SLL (Tortoise Hare Technique)
+- Reverse SLL
+- Detect cycle in SLL - I
