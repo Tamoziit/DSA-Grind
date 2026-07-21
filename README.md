@@ -138,3 +138,12 @@ Ab toh kuch bada phodna hainnnnnnnnnnnn
 - Count no. of substrings with k distinct characters
 - Longest Palindromic Substring
 - Sum of Beauty of all Substrings
+
+**21/07/26**:
+- Singly Linked List (SLL)
+    - insert at head
+    - insert at tail
+    - delete at head
+    - delete at tail
+    - find length of SLL
+    - search in SLL
