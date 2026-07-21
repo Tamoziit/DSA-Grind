@@ -147,3 +147,7 @@ Ab toh kuch bada phodna hainnnnnnnnnnnn
     - delete at tail
     - find length of SLL
     - search in SLL
+- Doubly Linked List (SLL)
+    - insert at head
+    - delete at head
+    - reverse DLL
