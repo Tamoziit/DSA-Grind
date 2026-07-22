@@ -156,3 +156,7 @@ Ab toh kuch bada phodna hainnnnnnnnnnnn
 - Middle of SLL (Tortoise Hare Technique)
 - Reverse SLL
 - Detect cycle in SLL - I
+- Detect cycle in SLL - II (Detect starting pos. of cycle)
+- Length of Loop
+- Palindrome SLL
+- Segragating odd even indices of SLL
