@@ -160,3 +160,9 @@ Ab toh kuch bada phodna hainnnnnnnnnnnn
 - Length of Loop
 - Palindrome SLL
 - Segragating odd even indices of SLL
+
+**23/07/26**:
+- Find Kth node from last
+- Delete Kth node from last
+- Delete middle node
+- Sort sLL
