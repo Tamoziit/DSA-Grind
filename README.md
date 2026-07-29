@@ -165,4 +165,10 @@ Ab toh kuch bada phodna hainnnnnnnnnnnn
 - Find Kth node from last
 - Delete Kth node from last
 - Delete middle node
-- Sort sLL
+- Sort SLL
+
+**30/07/26**:
+- Sort SLL of 0s, 1s & 2s
+- Find Intersection point in SLL
+- Add one to a number represented by SLL
+- Add 2 numbers in SLL
